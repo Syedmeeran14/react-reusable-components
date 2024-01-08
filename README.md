@@ -5,3 +5,4 @@
 Multiple reusable Components.
 Importing images.
 
+Deployed url : https://dreamy-cupcake-6791fd.netlify.app
